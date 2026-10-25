@@ -1,0 +1,14 @@
+{
+  "name": "arch-bootstrap",
+  "owner": { "name": "AyhamAbusninah", "url": "https://github.com/AyhamAbusninah" },
+  "description": "Marketplace for the arch-bootstrap skill: make any repository AI-ready.",
+  "plugins": [
+    {
+      "name": "arch-bootstrap",
+      "source": "./",
+      "description": "Bootstrap or verify a repository's AI architecture map and workflow files for any tech stack.",
+      "category": "documentation",
+      "tags": ["architecture", "documentation", "ai-workflow"]
+    }
+  ]
+}

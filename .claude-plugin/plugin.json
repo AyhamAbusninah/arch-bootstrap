@@ -1,0 +1,10 @@
+{
+  "name": "arch-bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap or verify a repository's AI architecture map and workflow files (ai_architecture_map.yaml, MAP.html, CHANGELOG.md, AI_WORKFLOW.md, CLAUDE.md, AGENTS.md) for any tech stack.",
+  "author": { "name": "AyhamAbusninah", "url": "https://github.com/AyhamAbusninah" },
+  "homepage": "https://github.com/AyhamAbusninah/arch-bootstrap",
+  "repository": "https://github.com/AyhamAbusninah/arch-bootstrap",
+  "license": "MIT",
+  "keywords": ["architecture", "documentation", "ai-workflow", "agents", "skill"]
+}
